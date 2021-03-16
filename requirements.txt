@@ -1,0 +1,7 @@
+pandas==1.1.0
+psycopg2_binary==2.8.6
+matplotlib==3.2.2
+numpy==1.19.2
+arch==4.15
+statsmodels==0.12.0
+psycopg2==2.8.6
